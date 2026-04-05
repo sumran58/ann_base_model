@@ -77,7 +77,7 @@ Output Layer (1 neuron, Sigmoid)
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/sumran58/ann_base_model.git
 ```
 
 ### 2️⃣ Navigate to project
