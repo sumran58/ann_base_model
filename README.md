@@ -147,14 +147,6 @@ plt.show()
 
 ---
 
-## 📌 Best Practices for GitHub
-
-* ✅ Add `model.summary()` screenshot
-* ✅ Upload training graph
-* ✅ Add `.gitignore` file
-* ✅ Include LICENSE (MIT recommended)
-
----
 
 ## 📜 License
 
