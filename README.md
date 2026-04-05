@@ -53,7 +53,7 @@ Output Layer (1 neuron, Sigmoid)
 
 | Parameter     | Value               |
 | ------------- | ------------------- |
-| Optimizer     | Adam                |
+| Optimizer     | sgd               |
 | Loss Function | Binary Crossentropy |
 | Metrics       | Accuracy            |
 | Epochs        | 100                 |
